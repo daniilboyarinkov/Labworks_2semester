@@ -1,23 +1,30 @@
 ﻿// Задание 1
-Console.WriteLine("Print a and b: ");
-
-
+// 2 вариант
 
 while (true)
 {
-    if (Int32.TryParse(Console.ReadLine(), out int a))
+    Console.WriteLine("Print a: ");
+    if (!Int32.TryParse(Console.ReadLine(), out int a))
     {
-        if (Int32.TryParse(Console.ReadLine(), out int b))
-        {
-            Console.WriteLine($"a: {a}, b: {b}");
-
-            a ^= b;
-            b ^= a;
-            a ^= b;
-            Console.WriteLine($"a: {a}, b: {b}");
-            break;
-        }
-        else Console.WriteLine("Введите b как  число...: ");
+        Console.WriteLine("Введите a как число...: ");
+        continue;
+        // переходит к сл итерации 
     }
-    else Console.WriteLine("Введите a как число...: ");
+
+    Console.WriteLine("Print b: ");
+    if (!Int32.TryParse(Console.ReadLine(), out int b))
+    {
+        Console.WriteLine("Введите b как  число...: ");
+        continue;
+    }
+    Console.WriteLine($"a: {a}, b: {b}");
+
+    // Обмен местами значений a и b с помощью операции xor
+    // да. хорошо
+    a ^= b;
+    b ^= a;
+    a ^= b;
+
+    Console.WriteLine($"a: {a}, b: {b}");
+    break;
 }

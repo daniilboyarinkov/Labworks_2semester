@@ -17,7 +17,7 @@
             }
             return most_expensive_building;
         }
-        public List<Building> FindOverdue(List<Building> buildings)
+        public List<Building> FindOverdue(List<Building> buildings) // те у кого закончился срок амортизации. да
         {
             List<Building> overdue_buildings = new List<Building>();
 
@@ -29,6 +29,5 @@
             if (overdue_buildings.Count > 0) return overdue_buildings;
             return null;
         }
-
     }
 }

@@ -6,6 +6,6 @@
         public string Position { get; set; } = String.Empty;
 
         public List<Building> List_Buildings = new List<Building>();
-
+        // да
     }
 }

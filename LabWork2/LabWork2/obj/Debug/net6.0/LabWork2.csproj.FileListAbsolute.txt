@@ -1,0 +1,15 @@
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\bin\Debug\net6.0\LabWork2.exe
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\bin\Debug\net6.0\LabWork2.deps.json
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\bin\Debug\net6.0\LabWork2.runtimeconfig.json
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\bin\Debug\net6.0\LabWork2.dll
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\bin\Debug\net6.0\ref\LabWork2.dll
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\bin\Debug\net6.0\LabWork2.pdb
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\obj\Debug\net6.0\LabWork2.csproj.AssemblyReference.cache
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\obj\Debug\net6.0\LabWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\obj\Debug\net6.0\LabWork2.AssemblyInfoInputs.cache
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\obj\Debug\net6.0\LabWork2.AssemblyInfo.cs
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\obj\Debug\net6.0\LabWork2.csproj.CoreCompileInputs.cache
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\obj\Debug\net6.0\LabWork2.dll
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\obj\Debug\net6.0\ref\LabWork2.dll
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\obj\Debug\net6.0\LabWork2.pdb
+C:\Users\BitDittoWit\Mine\Education\Прога\LabWork2\LabWork2\obj\Debug\net6.0\LabWork2.genruntimeconfig.cache
