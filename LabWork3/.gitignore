@@ -1,0 +1,7 @@
+.vs
+.editorconfig
+*.sln
+**/bin
+**/obj
+**/*.csproj
+**/*GlobalSuppressions.cs
