@@ -6,3 +6,4 @@
 **/*.csproj.user
 **/.editorconfig
 **/AssemblyInfo.cs
+.idea
