@@ -2,7 +2,7 @@
 # Дисциплина: программирование
 
 ## Лабораторная №5
-## **[Моя имплементация]()**
+## **[Моя имплементация](https://github.com/daniilboyarinkov/Labworks_2semester/tree/master/LabWork5)**
 
 ![preview](For_Readme/LabWork5/preview.jpg)
 
